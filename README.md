@@ -1,4 +1,4 @@
-# Deploy Nodejs project to Amazon EC2 with Github Actions
+# Deploy Nodejs project to Amazon EC2 using Github Actions
 
 ## After successfully connecting github to remote server follow this commands
 
