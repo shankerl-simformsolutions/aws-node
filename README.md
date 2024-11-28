@@ -1,4 +1,3 @@
-# Welcome to Coding Digital
 # Deploy Nodejs project to Amazon EC2 with Github Actions
 
 ## After successfully connecting github to remote server follow this commands
