@@ -6,7 +6,7 @@ app.get('/api/get', (req,res) => {
     res.send({message : 'Nodejs AWS Deployment'});
 })
 
-app.get('/api/get/user', (req,res) => {
+app.get('/api/get/users', (req,res) => {
     res.send({name : 'Dev', email: 'dev@gmail.com', 'role': 'Developer'});
 })
 
