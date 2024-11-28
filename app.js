@@ -10,7 +10,7 @@ app.get('/api/get/users', (req,res) => {
     res.send({name : 'Dev', email: 'dev@gmail.com', 'role': 'Developer'});
 })
 
-app.get('/api/get/all', (req,res) => {
+app.get('/api/get/bhawani', (req,res) => {
     res.send({name : 'bhawani', email: 'bhawani@gmail.com', 'role': 'Senior Developer'});
 })
 
